@@ -1,5 +1,5 @@
 ## Run a [Portainer-CE](https://www.portainer.io/) instance with docker-compose
-[![Build Status](https://files.ariadata.co/file/ariadata_logo.png)](https://ariadata.co)
+[![Build Status](https://raw.githubusercontent.com/ariadata/ariadata-files/main/public-assets/images/ariadata_logo.png)](https://ariadata.co)
 
 ![](https://img.shields.io/github/stars/ariadata/dc-portainer-ce.svg)
 ![](https://img.shields.io/github/watchers/ariadata/dc-portainer-ce.svg)
